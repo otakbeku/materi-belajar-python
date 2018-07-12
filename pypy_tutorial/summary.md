@@ -1,6 +1,6 @@
 # Pypy Setup and Introduction
 
-[![]()]()
+[![](thumbnail/thumbnail.jpeg)](https://drive.google.com/file/d/1Vc5rAtGs94gPwd1EnWo9w8c3muglY_t0/view?usp=sharing)
 
 ## About
 
