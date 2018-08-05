@@ -14,4 +14,4 @@ Tahukah kalian bahwa Python mempunyai style guide tertentu? Style Guide ini tern
 
 ## Source Material
 
-  - [PEP 8](https://www.python.org/dev/peps/pep-0008/) - PEP 8 Style Guide
+  - [PEP 8](https://www.python.org/dev/peps/pep-0008/)
