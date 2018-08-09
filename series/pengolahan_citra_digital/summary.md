@@ -13,4 +13,4 @@ Pengolahan Citra Digital atau juga bisa dikatakan Image Processing adalah suatu 
 
 ## Source Material
 
-  - To Be Added
+  - [Jupyter Notebook Study Material](study_material)
