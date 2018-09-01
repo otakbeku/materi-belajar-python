@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a488acb7-4a13-4d9b-8df0-af69079e1b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/materi-belajar-python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/series/Basic_Python/study_material/Materi_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/series/Basic_Python/study_material/part1.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pengolahan_citra_digital/Asset/Judul-materi-2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/series/pengolahan_citra_digital/study_material/.ipynb_checkpoints/Materi Pengolahan Citra Digital - Part II-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/series/Pengolahan_Citra_Digital/study_material/.ipynb_checkpoints/Materi Pengolahan Citra Digital - Part II-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series/pengolahan_citra_digital/study_material/.ipynb_checkpoints/Materi Pengolahan Citra Digital -Introduction-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/series/Pengolahan_Citra_Digital/study_material/.ipynb_checkpoints/Materi Pengolahan Citra Digital -Introduction-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series/pengolahan_citra_digital/study_material/Asset/diagram_1_modelling.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/series/Pengolahan_Citra_Digital/study_material/Asset/diagram_1_modelling.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series/pengolahan_citra_digital/study_material/Asset/gambar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/series/Pengolahan_Citra_Digital/study_material/Asset/gambar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series/pengolahan_citra_digital/study_material/Materi Pengolahan Citra Digital - Part II.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/series/Pengolahan_Citra_Digital/study_material/Materi Pengolahan Citra Digital - Part II.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series/pengolahan_citra_digital/study_material/Materi Pengolahan Citra Digital -Introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/series/Pengolahan_Citra_Digital/study_material/Materi Pengolahan Citra Digital -Introduction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series/pengolahan_citra_digital/summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/series/Pengolahan_Citra_Digital/summary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series/pengolahan_citra_digital/thumbnail/thumbnail.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/series/Pengolahan_Citra_Digital/thumbnail/thumbnail.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,11 +37,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="1297" />
+          <entry key="gitignore" value="1" />
           <entry key="py" value="1254" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="2551" />
         </counts>
       </usages-collector>
@@ -76,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
+            <state relative-caret-position="27">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -268,8 +255,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
