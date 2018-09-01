@@ -7,7 +7,7 @@ Selamat datang di pyMatpel, disini kita melakukan belajar bersama melalui Live S
 ### Series
 
 **Juni 2018**
-- [Pengolahan Citra Digital ](series/pengolahan_citra_digital/summary.md) - Pengenalan pengolahan citra digital.
+- [Pengolahan Citra Digital ](series/Pengolahan_Citra_Digital/summary.md) - Pengenalan pengolahan citra digital.
 
 **Agustus 2018**
 - [More]() - Lesson sesuai jadwal
